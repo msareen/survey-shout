@@ -1,0 +1,31 @@
+{
+    "name": "transport",
+    "description": "A data analylics transport app.",
+    "main": "index.js",
+    "authors": [
+    "Manasvi Sareen (manasvi.sareen@gmail.com)"
+  ],
+    "license": "MIT",
+    "moduleType": [],
+    "homepage": "",
+    "private": true,
+    "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+    "dependencies": {
+        "angular": "angularjs#^1.6.2",
+        "bootstrap": "^3.3.7",
+        "jquery": "^3.1.1",
+        "angular-route": "^1.6.2",
+        "lodash": "^4.17.4",
+        "requirejs": "^2.3.3",
+        "angular-ui-grid": "4.0.2"
+    },
+    "resolutions": {
+        "angular": "^1.6.0"
+    }
+}

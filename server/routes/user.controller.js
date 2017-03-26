@@ -25,7 +25,7 @@
     }
 
     function verifyUser(username) {
-
+        
     }
 
     function getUserInfo(userInfo) {
